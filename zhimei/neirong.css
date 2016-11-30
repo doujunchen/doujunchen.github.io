@@ -1,0 +1,40 @@
+#bodyer{width:100%;height:754px;}
+#bodyer .left{width:210px;height:258px;margin-top:38px;margin-left:131px;margin-right:23px;float:left;}
+#bodyer .left .zaixian{width:210px;height:21px;border-bottom:2px solid #9c9c9c;}
+#bodyer .left .zaixian h3{width:66px;height:21px;text-align:center;border-bottom:2px solid #ff680b;}
+#bodyer .left .qq{width:191px;height:74px;margin-left:10px;border-bottom:1px dashed #999999}
+#bodyer .left .qq i{background:url(images/neirong_03.gif) no-repeat;margin-top:8px;margin-right:8px;width:21px;cursor:pointer;height:21px;display:inline-block;}
+#bodyer .left .qq span{font-size:11px;display:inline-block;vertical-align:50%;line-height:12px;cursor:pointer;}
+#bodyer .left .time{width:191px;height:100px;margin-left:10px;border-bottom:1px dashed #999999}
+#bodyer .left .time i{background:url(images/neirong_33.gif) no-repeat;margin-top:8px;margin-right:8px;width:25px;cursor:pointer;height:25px;display:inline-block;}
+#bodyer .left .time a{font-size:11px;display:inline-block;vertical-align:50%;line-height:12px;margin-bottom:15px;}
+#bodyer .left .time p{color:#333333;line-height:22px;}
+#bodyer .left .lianxi{width:191px;height:100px;margin-left:10px;}
+#bodyer .left .lianxi i{background:url(images/neirong_39.gif) no-repeat;margin-top:8px;margin-right:8px;width:25px;cursor:pointer;height:25px;display:inline-block;}
+#bodyer .left .lianxi a{font-size:11px;display:inline-block;vertical-align:50%;line-height:12px;margin-bottom:15px;}
+#bodyer .left .lianxi p{color:#333333;line-height:22px;}
+#bodyer .right{width:712px;height:703px;text-align:center;float:right;margin-right:145px;margin-top:49px;}
+#bodyer .right .p1{font-size:17px;}
+#bodyer .right p{display:block;}
+#bodyer .right .p3{width:709px;height:55px;border-bottom:1px dashed #dbeaef;text-align:left;}
+#bodyer .right .p3 .i1{background:url(images/neirong_07.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i2{background:url(images/neirong_09.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i3{background:url(images/neirong_11.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i4{background:url(images/neirong_13.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i5{background:url(images/neirong_15.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i6{background:url(images/neirong_17.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i7{background:url(images/neirong_19.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i8{background:url(images/neirong_28.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i9{background:url(images/neirong_29.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i10{background:url(images/neirong_30.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 .i11{background:url(images/neirong_31.gif)no-repeat;width:20px;height:20px;display:inline-block;}
+#bodyer .right .p3 a{vertical-align:50%;margin-right:16px;}
+#bodyer .right .p3 i{margin-right:3px;}
+#bodyer .right .ss{width:46px;height:23px;border:1px solid #dbeaef;display:inline-block;margin-top:400px;margin-right:3px;line-height:23px;}
+
+.footer{width:100%;height:117px;border-top:1px solid #b4b4b4;background-color:#eaeaea;}
+.footer p{text-align:center;font-size:11px;line-height:22px;}
+
+
+
+

@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>卧龙控股</title>
+  <link rel="stylesheet" type="text/css" href="index.css"/>
+ </head>
+ <body>
+	<div id="header">
+		<a href="#">
+			<img src="images/wolong_03.gif"/>
+		</a>
+		<div class="head_search">
+			<input placeholder="SEARCH..."/>
+			<span></span>
+		</div>
+	</div>
+	<div id="nav">
+		<a href="#">集团介绍</a>
+		<a href="#">产品中心</a>
+		<a href="#">卧龙市场</a>
+		<a href="#">技术研发</a>
+		<a href="#">国际合作</a>
+		<a href="#">投资者关系</a>
+		<a href="#">新闻资讯</a>
+		<a href="#" style="border:0;">人力资源</a>
+	</div>
+	<div id="banner">
+		<img src="images/wolong_06.gif"/>
+	</div>
+	<div id="section">
+		<div class="section_left">
+			<h3>新闻资讯</h3>
+			<ul>
+				<li>
+					<a href="#">陈建成董事长出席ABT年度销售会议</a>
+					<span>2013-7-30</span>
+				</li>
+				<li>
+					<a href="#">中国电器工业协会分马力电机分会在卧龙召开理事长。。。</a>
+					<span>2013-7-30</span>
+				</li>
+				<li>
+					<a href="#">陈建成董事长访问中国驻德大使馆</a>
+					<span>2013-7-30</span>
+				</li>
+				<li>
+					<a href="#">企业文化是企业持续经营的关键要素</a>
+					<span>2013-7-30</span>
+				</li>
+				<li>
+					<a href="#">陈建成监事长在ATB集团2013年销售会议上发表重要。。。</a>
+					<span>2013-7-30</span>
+				</li>
+				<li>
+					<a href="#">喜迎七一 唱响卧龙 年轻力量激发企业持久活力 卧龙举。。。</a>
+					<span>2013-7-30</span>
+				</li>
+			</ul>
+		</div>
+		<div class="section_center">
+			<h3>卧龙介绍</h3>
+			<p style="margin-top:38px;font-size:14px;">公司成立于1984年,</p><p style="margin-bottom:23px;">经过近30年的发展</p>
+			<p style="color:#aeaeae">已成为电气制造，房地产开发和金融投资三业并举的综合性跨国。。。</p>
+		</div>
+		<div class="section_right">
+			<h3 style="margin-bottom:23px;">人才招聘</h3>
+			<p style="margin-right:50px;">培养一流的人才，铸造一流的工程 实现员工与企业的共同发展</p>
+			<img src="images/wolong_09.gif" style="float:right"/>
+		</div>
+	</div>
+	<div style="width:999px;height:301px;margin:0 auto;">
+		<div style="height:63px;width:999px;font-size:18px;margin-left:21px;line-height:50px;">卧龙市场</div>
+	    <div id="sikuai">
+			<div>
+				<img src="images/wolong_13.gif"/>
+				<div>交通轨道：由于主要采用电器牵引，而且轮轨摩擦阻力较小，与公共。。。</div>
+			</div>
+			<div>
+				<img src="images/wolong_15.gif"/>
+				<div>节能环保：由于不断上涨的能源消耗和我们的专业知识，维护可持续。。。</div>
+			</div>
+			<div>
+				<img src="images/wolong_17.gif"/>
+				<div>航空与船舰：如果你是在公海行驶，你需要确保你的船只的电力系统。。。</div>
+			</div>
+			<div>
+				<img src="images/wolong_19.gif"/>
+				<div>石油丶天然气及采矿：在市场中的安全性，可靠性，效率和最短的停机。。。</div>
+			</div>
+		</div>
+	</div>
+	<div id="" style="height:250px;width:999px;margin:0 auto;background:#e5e5e5;">
+		<div class="qiche" style="width:475px;">
+			<div style="margin:20px 10px">产品中心</div><hr/>
+			<ul>
+				<img src="images/wolong_29.gif"/><li>汽车电机</li>
+				<img src="images/wolong_29.gif"/><li>日用电机</li>
+				<img src="images/wolong_29.gif"/><li>特种电机</li>
+				<img src="images/wolong_29.gif"/><li>大功率电机</li>
+				<img src="images/wolong_29.gif"/><li>电工设备</li>
+			</ul>
+			<ul>
+				<img src="images/wolong_29.gif"/><li>工业驱动和自动化</li>
+				<img src="images/wolong_29.gif"/><li>高压变频和系统集成</li>
+				<img src="images/wolong_29.gif"/><li>混泥土搅拌机</li>
+				<img src="images/wolong_29.gif"/><li>电动车辆</li>
+			</ul>
+			<ul>
+				<img src="images/wolong_29.gif"/><li>电池电源</li>
+				<img src="images/wolong_29.gif"/><li>输变电设备</li>
+				<img src="images/wolong_29.gif"/><li>楼盘信息</li>
+				<img src="images/wolong_29.gif"/><li>金融产品</li>
+			</ul>
+		</div>
+		<div class="er"style="width:158px;float:left;margin-left:48px;position:relative;top:-25px;">
+			<h2 style="font-size:20px">技术研发</h2><hr/>
+			<ul  style="list-style:none;overflow:hidden;margin:12px 0;padding:10px">
+				<img src="images/wolong_29.gif"style="float:left"/><li>科技力量</li>
+				<img src="images/wolong_29.gif"style="float:left"/><li>先进设备</li>
+				<img src="images/wolong_29.gif" style="float:left"/><li>研发创新</li>
+				<img src="images/wolong_29.gif" style="float:left"/><li>工艺流程</li>
+			</ul>
+		</div>
+		<div style="position:relative;top:-25px;width:256px;margin-left:48px;float:left">
+			<h2 style="font-size:20px;">营销网络</h2><hr/>
+			<img src="images/wolong_26.gif"/>
+		</div>
+	</div>
+	<div id="footer" style="height:81px;width:999px;margin:0 auto;">
+		<div class="lef">
+			<a>网站地图&nbsp&nbsp|&nbsp&nbsp联系我们&nbsp&nbsp|&nbsp&nbsp关注卧龙&nbsp&nbsp|&nbsp&nbsp采购系统入口</a>
+		<div class="rig">
+			<div>COPYRIGHT &copy 2013 卧龙控股集团 版权所有 浙ICP备06005901号 技术支持：博彩互动&nbsp&nbsp分享到：&nbsp
+				<div style="float:right">
+					<img src="images/wolong_34.gif"/>&nbsp
+					<img src="images/wolong_36.gif"/>&nbsp
+					<img src="images/wolong_38.gif"/>&nbsp
+					<img src="images/wolong_40.gif"/>&nbsp
+					<img src="images/wolong_41.gif"/>
+				</div>
+			</div>
+		</div>
+	</div>
+
+ </body>
+</html>

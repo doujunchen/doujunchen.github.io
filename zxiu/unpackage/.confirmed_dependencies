@@ -1,0 +1,81 @@
+{
+	"index.html": {
+		"resources": [
+			"img/user.png",
+			"img/more.png",
+			"css/base.css",
+			"js/jQuery.v2.1.4.js",
+			"img/search.jpg",
+			"img/menu.png",
+			"css/swiper.min.css",
+			"js/swiper.min.js",
+			"img/shop.jpg",
+			"img/order.png",
+			"img/home.png",
+			"menu.html"
+		],
+		"refer": [
+			"menu.html"
+		]
+	},
+	"menu.html": {
+		"resources": [
+			"img/back.png",
+			"img/right2.png",
+			"index.html",
+			"shopcar.html"
+		],
+		"refer": [
+			"index.html",
+			"shopcar.html"
+		]
+	},
+	"more.html": {
+		"resources": [
+			"user.html"
+		],
+		"refer": [
+			"user.html"
+		]
+	},
+	"shopcar.html": {
+		"resources": [
+			"img/btnline.png",
+			"user.html",
+			"img/right.png",
+			"img/usericon.png",
+			"myorder.html",
+			"menu.html"
+		],
+		"refer": [
+			"user.html",
+			"myorder.html",
+			"menu.html"
+		]
+	},
+	"user.html": {
+		"resources": [
+			"more.html",
+			"menu.html"
+		],
+		"refer": [
+			"more.html",
+			"menu.html"
+		]
+	},
+	"myorder.html": {
+		"resources": [
+			"shopcar.html",
+			"img/clothes.jpg"
+		],
+		"refer": [
+			"shopcar.html"
+		]
+	},
+	"guide.html": {
+		"resources": [
+			"css/mui.min.css",
+			"js/mui.min.js"
+		]
+	}
+}
